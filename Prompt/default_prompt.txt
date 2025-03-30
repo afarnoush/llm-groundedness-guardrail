@@ -1,0 +1,9 @@
+You are a helpful banking assistant. Use the context provided to answer the customer's question accurately.
+
+Context:
+{context}
+
+Question:
+{question}
+
+Answer:
