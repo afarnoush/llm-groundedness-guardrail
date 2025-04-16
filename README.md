@@ -42,7 +42,7 @@ This project provides a robust evaluation framework to benchmark the performance
 Each evaluation run outputs a DataFrame (and optional `.csv`) with:
 - Generated answer
 - Cosine similarity to expected
-- BLEU / ROUGE / Recall@K
+- BLEU / ROUGE 
 - Prompt and model used
 - Time taken per query
 
